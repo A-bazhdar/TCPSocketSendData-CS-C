@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amir Bazhdar\\source\\repos\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj": {}
+    "C:\\Users\\Amir Bazhdar\\source\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amir Bazhdar\\source\\repos\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj": {
+    "C:\\Users\\Amir Bazhdar\\source\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amir Bazhdar\\source\\repos\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj",
+        "projectUniqueName": "C:\\Users\\Amir Bazhdar\\source\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj",
         "projectName": "TCPSocketSendData-CS-C",
-        "projectPath": "C:\\Users\\Amir Bazhdar\\source\\repos\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj",
+        "projectPath": "C:\\Users\\Amir Bazhdar\\source\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C.csproj",
         "packagesPath": "C:\\Users\\Amir Bazhdar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amir Bazhdar\\source\\repos\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\obj\\",
+        "outputPath": "C:\\Users\\Amir Bazhdar\\source\\TCPSocketSendData-CS-C\\TCPSocketSendData-CS-C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amir Bazhdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
