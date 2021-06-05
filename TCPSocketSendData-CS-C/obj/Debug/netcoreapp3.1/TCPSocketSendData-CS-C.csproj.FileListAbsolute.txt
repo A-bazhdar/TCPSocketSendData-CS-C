@@ -1,0 +1,13 @@
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\bin\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.exe
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\bin\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.deps.json
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\bin\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.runtimeconfig.json
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\bin\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.runtimeconfig.dev.json
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\bin\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.dll
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\bin\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.pdb
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.csprojAssemblyReference.cache
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.AssemblyInfoInputs.cache
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.AssemblyInfo.cs
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.csproj.CoreCompileInputs.cache
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.dll
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.pdb
+C:\Users\Amir Bazhdar\source\repos\TCPSocketSendData-CS-C\TCPSocketSendData-CS-C\obj\Debug\netcoreapp3.1\TCPSocketSendData-CS-C.genruntimeconfig.cache
